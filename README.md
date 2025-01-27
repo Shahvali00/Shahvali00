@@ -11,8 +11,19 @@
 ###
 
 <div align="center">
+  <!-- Telegram -->
   <a href="https://t.me/proger_incognito" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+  </a>
+  
+  <!-- Kaggle -->
+  <a href="https://www.kaggle.com/shahvali05" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo" />
+  </a>
+  
+  <!-- ODS.ai -->
+  <a href="https://ods.ai/users/xbb518c22b0b8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ODS.ai&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMjAwIiBoZWlnaHQ9IjIyMDAiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgdmlnaWZ5PSJtZWV0Ij48cGF0aCBkPSJNNS40NzEgMC4wODU1ODdBMTEuNjg0IDExLjY4NCAwIDAgMCAwLjA4NTU4NyA1LjQ3MUMwLjA4NTU4NyA5LjM4NiAzLjYxNCAxMi45MTQgNy41MiAxMi45MTRDMTIuMDI2IDEyLjkxNCAxNS44NzQgMTAuMTQ0IDE2IDEuNTQ2QzE1LjM2MyAyLjE2MSAxNC41MTcgMi42ODUgMTMuNTAzIDIuODk4QzEwLjU4OCAzLjYxNCA2LjY3MyAyLjg5OCA1LjQ3MSAwLjA4NTU4N1oiIGZpbGw9IiNmZmZmZmYiLz48cGF0aCBkPSJNNC41MTUgMi41NTg5MUM1LjQ3MSAyLjQ0NSA2LjQzIDIuNDQ1IDcuMzgyIDIuNTg5QzguMzQxIDIuNzM0IDkuMzAwIDMuMDIxIDkuOTY5IDMuNTAzQzEwLjYzNyA0LjAxMSAxMS4xMjkgNC43MDcgMTEuNDA2IDUuNTU2QzExLjA5NCA3LjEwNyA5LjM5MiA4LjIyMSA3LjgyOSA3LjkxOEw3LjgyOSAxMC43MzNDOS4xOTIgMTEuMDQgMTEuMzcxIDExLjAxNyAxMi41NTYgMTAuNzMzQzEwLjM5MSAxMy4zNzkgNi42NzMgMTIuMzY3IDUuNDA0IDkuNTU2TDQuNDAzIDkuNTU2QzIuOTUgMTEuNDkgMS4wNDggMTEuNzQxIDAuMTM4NzY4IDkuNzQxQzAuMDkxOTg2IDkuNjU2IC4wNjM3NTQ1IDkuNTYyIC4wMzI3MzI0IDkuNDYzTDAuMDg1NTg3IDUuNDcxWiIgZmlsbD0iIzFBODkwMCIvPjwvc3ZnPg==&label=&color=1A8900&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ods.ai logo" />
   </a>
 </div>
 
