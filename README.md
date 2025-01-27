@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Шахвали!</h1>
+<h1 align="center">Hi 👋, I'm Shahvali!</h1>
 
 ###
 
@@ -29,21 +29,22 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
-<p align="left">Привет! Меня зовут Шахвали, и я backend-разработчик, который сейчас идет по пути к становлению ML-разработчиком. Мой путь в IT начался со Школы 21 от Сбера, где я получил ценный опыт и прочную базу в программировании. Я стремлюсь к развитию своих навыков и хочу стать выдающимся разработчиком в области машинного обучения.
-    🔭 В настоящее время обучаюсь в Школе 21 от Сбера, где постоянно развиваюсь как разработчик.
-    📚 Сфокусирован на изучении машинного обучения, чтобы перейти из backend-разработки в ML.
-    ⚡ Всегда готов учиться новым технологиям и решать сложные задачи!</p>
-<h3 align="left">📕 Мои проекты</h3>
+<p align="left">Hi! My name is Shahvali, and I’m a backend developer transitioning into machine learning. My journey in IT began at School 21 by Sber, where I gained valuable experience and built a strong programming foundation. I’m passionate about improving my skills and aspire to become an exceptional machine learning developer.
+    🔭 Currently studying at School 21 by Sber, continuously evolving as a developer.
+    📚 Focused on learning machine learning to transition from backend development to ML.
+    ⚡ Always eager to learn new technologies and tackle challenging problems!</p>
 
-- [Телеграмм бот: flux VPN](https://t.me/flux_VPN_bot)
+<h3 align="left">📕 My Projects</h3>
+
+- [Telegram Bot: Flux VPN](https://t.me/flux_VPN_bot)
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -69,7 +70,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥 My Stats:</h3>
 
 ###
 
